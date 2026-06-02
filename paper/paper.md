@@ -1,10 +1,14 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'Eurobioc2026 Projects Report'
+title_short: 'Projects for improving bioconductor interoperability'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - Bioconductor
+  - bioinformatics
+  - R
+  - Tidyomics
+  - CUDA
+  - Docker
+  - Rapp
 authors:
   - name: First Author
     affiliation: 1
@@ -19,15 +23,14 @@ affiliations:
   - name: ELIXIR Europe
     ror: 044rwnt51
     index: 2
-date: 8 November 2023
+date: 1 June 2026
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
+event: Eurobioc 2026
+biohackathon_name: "Eurobioc 2026"
+biohackathon_url: "https://bioconductor.org/developers/bioccommits/"
+biohackathon_location: "Turku, Finland 2026"
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/BiocCodingCollaborations/EuroBioc2026_Biohackrxiv_submission
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: First Author \emph{et al.}
